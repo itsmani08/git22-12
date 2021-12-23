@@ -37,6 +37,10 @@ public class EmployeeDetails {
     System.out.println("Enter your Gender");
     String empGender = sc.next();
     System.out.println("My Gender:"+empGender);
+    
+    
+    System.out.println("hello");
+    
 }	
 }	
 	
